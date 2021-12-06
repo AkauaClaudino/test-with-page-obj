@@ -1,4 +1,3 @@
 $ cat .gitattributes
 *.html linguist-language=Ruby
-dist/* linguist-vendored
-Gherkin linguist-vendored=true
+
